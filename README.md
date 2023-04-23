@@ -24,6 +24,8 @@ I'm Thanadol Chitthamlerd.
 
 📄**Check out my resume: [Resume](Resume_Thanadol_Chitthamlerd.pdf)**
 
+🔭 See list of project I've [collaborated on](https://github.com/stars/thanadolps/lists/collaborated)
+
 📫 How to reach me:
 
 - ✉️ thanadolps@gmail.com
