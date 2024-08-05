@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm Thanadol Chitthamlerd.
 
-- 🎓 Student at Chulalongkorn University, Thailand.
-- 📚 Studying Computer Engineering
+- 🎓 Graduated from at Chulalongkorn University, Thailand.
+- 📚 Studied Computer Engineering degree
 - 💻 Interested in software development, especially in web development.
-- 🤖 also interested in game development, machine learning, and data science.
+- 🤖 also interested in game development, machine learning, embbed system, and data science.
 
 📄**Check out my resume: [Resume](Resume_Thanadol_Chitthamlerd.pdf)**
 
@@ -29,7 +29,7 @@ I'm Thanadol Chitthamlerd.
 📫 How to reach me:
 
 - ✉️ thanadolps@gmail.com
-- ✉️ 6330216721@student.chula.ac.th
+<!-- ✉️ 6330216721@student.chula.ac.th -->
 
 ## Tech Stacks
 
