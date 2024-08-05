@@ -52,6 +52,8 @@ I'm Thanadol Chitthamlerd.
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
 </p>
 
+<!--
 ## Stats
 
 ![thanadolps's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanadolps)
+-->
